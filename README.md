@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pranjal Chowdhury 👋
+### Software Quality Assurance (SQA) Engineer
 
-<!--
-**pranjalprim/pranjalprim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Software Quality Assurance Engineer specializing in manual & automated software testing, API testing, performance evaluation, and CI/CD quality integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Automation & Frameworks:** Selenium, Cucumber, TestNG, SpecFlow, REST Assured
+- **Testing Tools:** Postman, Apache JMeter, OWASP ZAP, Appium
+- **Languages:** Java, Python, C#
+- **Management & CI/CD:** Jira, Jenkins, Git, GitHub
+
+---
+
+### 🧪 Featured Projects & Test Suites
+
+- ✈️ **US-Bangla Airlines SQA Test Suite:** Designed and executed complete manual and automated test suites covering login, flight status, profile management, and booking modules.
+- 📉 **Telecom Customer Churn Prediction:** Machine learning-based analytics and churn prediction model built with Python.
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/pranjalprim](https://linkedin.com/in/pranjalprim)
+- 🌐 **Portfolio:** [pranjalprim.github.io](https://pranjalprim.github.io)
